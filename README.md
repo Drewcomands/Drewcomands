@@ -26,7 +26,6 @@ I’m a developer based in Barranquilla, Colombia, with a well-rounded approach:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Data, Backend & Optimization**  
-**Data, Backend & Optimization**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white)
 ![APIs](https://img.shields.io/badge/Integration-APIs-brightgreen?style=for-the-badge)
