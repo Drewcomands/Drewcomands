@@ -38,14 +38,6 @@ I’m a developer based in Barranquilla, Colombia, with a well-rounded approach:
 - Application of AI in data analysis to detect patterns and improve decision-making.
 - Practical approach combining AI + web development + business automation.
 
----
-
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Drewcomands&show_icons=true&theme=radium&hide_border=true&cache_seconds=86400" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drewcomands&layout=compact&theme=radium&hide_border=true&cache_seconds=86400" />
-</div>
 
 ---
 
