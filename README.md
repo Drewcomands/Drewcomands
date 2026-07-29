@@ -30,6 +30,16 @@ Soy un desarrollador radicado en Barranquilla, Colombia, con un enfoque integral
 
 ---
 
+### 🤖 IA Aplicada al Desarrollo y Operaciones
+
+- Integración de herramientas de IA para acelerar desarrollo y automatización de procesos.
+- Uso de IA para asistencia en generación de código, documentación técnica y pruebas.
+- Optimización de flujos operativos con apoyo de IA para reducir tiempos de ejecución.
+- Aplicación de IA en análisis de datos para detectar patrones y mejorar decisiones.
+- Enfoque práctico en combinación de IA + desarrollo web + automatización de negocio.
+
+---
+
 ### 📈 Mis Estadísticas en GitHub
 
 <div align="center">
